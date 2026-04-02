@@ -49,4 +49,4 @@ This project demonstrates practical skills in funnel analysis, conversion optimi
 
 ## 🔗 Author
 Mokgadi Morupane
-![Dashboard](dashboard_preview(2).png)
+![Dashboard](dashboard_preview.png)
